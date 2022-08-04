@@ -1,5 +1,5 @@
 Cursuri Java
-Lesson 11b, cu doua metode.
+Lesson 11a
 
 
-{descrierea problemei}
+{Creati o clasa Person care sa aiba trei proprietati Long id, String firstName, lastName}
