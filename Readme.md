@@ -1,5 +1,5 @@
 Cursuri Java
-Lesson 11a
+Lesson 12
 
 
-{Creati o clasa Person care sa aiba trei proprietati Long id, String firstName, lastName}
+{Methods overloaded, "this" keyword}
